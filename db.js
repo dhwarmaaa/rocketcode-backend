@@ -5,8 +5,8 @@ const user = "testing";
 const password = "Pruebas%ALI%2020";
 const BD = "testing_ali_fullstack";
 
-const sequelize = new Sequelize("rocketcode", "root", "Asdfgh-34", {
-  host: "localhost",
+const sequelize = new Sequelize(BD, user, password, {
+  host: host,
   dialect: "mysql",
 });
 
