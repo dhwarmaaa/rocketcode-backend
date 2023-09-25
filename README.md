@@ -16,7 +16,8 @@ Asegúrate de tener Node.js v18.17.1 y MySQL (en mi caso fue desarrollado en ubu
 
 4. Configura la base de datos en el archivo db.js
 5. Inicia el servidor
-     node server.js
+
+   node server.js
 
 ## Uso
 
