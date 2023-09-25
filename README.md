@@ -11,6 +11,7 @@ Asegúrate de tener Node.js v18.17.1 y MySQL (en mi caso fue desarrollado en ubu
 2. Instala las dependencias
    
     cd rocketcode-backend
+   
     npm install
 
 4. Configura la base de datos en el archivo db.js
